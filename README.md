@@ -111,17 +111,17 @@ My priority is to establish strong networking and Linux fundamentals before prog
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anusha21032007-git&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anusha270425&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha21032007-git&layout=compact&hide_border=true&theme=github_dark" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anusha21032007-git&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha270425&layout=compact&hide_border=true&theme=github_dark" />
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=anusha21032007-git&theme=github-dark-blue&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anusha270425&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=anusha270425&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
