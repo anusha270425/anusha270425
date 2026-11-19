@@ -1,173 +1,161 @@
-{align="center"}
-# Anusha N
 
-### Cybersecurity Enthusiast · Networking · Frontend Development
+<div align="center">
 
-`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+the+world+of+Cybersecurity;Building+useful+web+applications;Learning+Networking+%26+Linux;Working+towards+SOC+Analyst+roles" alt="Animated introduction" />`{=html}
+# ANUSHA N
 
-```{=html}
-<p>
+### Cybersecurity | Networking | Frontend Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Aspiring+SOC+Analyst;Networking+%26+Linux+Learner;Frontend+Developer;Building+Practical+Technology" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-SOC%20ANALYST-0D1117?style=for-the-badge&color=238636"/>
+<img src="https://img.shields.io/badge/INTEREST-NETWORKING-0D1117?style=for-the-badge&color=1F6FEB"/>
+<img src="https://img.shields.io/badge/DOMAIN-CYBER%20SECURITY-0D1117?style=for-the-badge&color=8957E5"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/anusha21032007-git)
+
+</div>
+
+---
+
+## 01. About Me
+
+I am a **B.E. Computer Science and Engineering student specializing in Cyber Security** at **Adhiyamaan College of Engineering, Hosur**.
+
+My primary technical interests are cybersecurity and networking, with a career goal of becoming a **SOC Analyst**.
+
+I focus on understanding how systems and networks operate, exploring security tools, and developing practical technical skills. Alongside cybersecurity, I build frontend and full-stack applications.
+
+- Currently learning Networking and Linux fundamentals.
+- Exploring Nmap and security monitoring.
+- Developing practical web applications.
+- Preparing towards SOC Analyst roles.
+- Interested in system-level troubleshooting and security operations.
+
+## 02. Technical Skills
+
+<div align="center">
+
+### Cybersecurity & Systems
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,cpp&theme=dark"/>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,mysql&theme=dark"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+</div>
+
+**Currently practising:** Kali Linux, Nmap, Linux commands, networking fundamentals and SOC fundamentals.
+
+*These icons represent technologies I have explored, used or am learning. They do not imply expert-level proficiency.*
+
+---
+
+## 03. Featured Projects
+
+### Cybersecurity Projects
+
+| Project | Description |
+|---|---|
+| Password Manager | Application focused on credential management. |
+| Phishing Mail Detection | Exploring identification of suspicious and potentially malicious emails. |
+
+### Software & Engineering Projects
+
+| Project | Description |
+|---|---|
+| Twin Steering | ESP32 and AS5600-based Bluetooth steering monitoring prototype that compares reference and learner steering angles. |
+| Universal File Toolkit | Web application combining common file utilities into one interface. |
+| AI Agent Analyzer | Concept for evaluating AI agents based on performance, reliability and security. |
+| Users-Employees Task Manager | Role-based task and announcement management application. |
+| Campus Commerce | Multi-role campus commerce platform concept. |
+
+---
+
+## 04. Current Learning Roadmap
+
+<div align="center">
+
+```text
+       NETWORKING FUNDAMENTALS
+                 |
+                 v
+         LINUX FUNDAMENTALS
+                 |
+                 v
+         NMAP & SCANNING
+                 |
+                 v
+       SECURITY MONITORING
+                 |
+                 v
+       LOG ANALYSIS & TRIAGE
+                 |
+                 v
+          SOC LAB PRACTICE
 ```
-`<a href="https://github.com/anusha21032007-git">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-anusha21032007--git-181717?style=for-the-badge&logo=github" alt="GitHub profile" />`{=html}
-`</a>`{=html}
-`<img src="https://img.shields.io/badge/Focus-SOC%20%26%20Networking-0A66C2?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Current focus" />`{=html}
-`<img src="https://img.shields.io/badge/Status-Open%20to%20Learning%20%26%20Internships-238636?style=for-the-badge" alt="Status" />`{=html}
-```{=html}
-</p>
-```
-:::
 
-------------------------------------------------------------------------
+</div>
 
-## About
+My priority is to establish strong networking and Linux fundamentals before progressing into advanced SOC operations.
 
-I am a **B.E. Computer Science and Engineering (Cyber Security)
-student** at **Adhiyamaan College of Engineering, Hosur**. I am
-interested in understanding how systems and networks work, identifying
-security weaknesses, and building practical software.
+---
 
-My current career direction is **Security Operations Center (SOC)
-analysis**, with a strong focus on networking and Linux fundamentals.
-Alongside cybersecurity, I work on frontend and full-stack projects to
-strengthen my software development skills.
+## 05. GitHub Statistics
 
--   **Currently learning:** Networking, Linux administration, Nmap and
-    SOC fundamentals
--   **Career focus:** SOC Analyst
--   **Development interests:** Frontend development and practical web
-    applications
--   **Approach:** Learn concepts, practise in labs, document findings,
-    and build projects
+<div align="center">
 
-## Technical Focus
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anusha21032007-git&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
 
-::: {align="center"}
-  Cybersecurity & Networking       Development
-  -------------------------------- ---------------------------------
-  Network fundamentals             HTML, CSS and JavaScript
-  Linux fundamentals               Frontend development
-  Nmap and reconnaissance basics   Full-stack application concepts
-  SOC workflows --- learning       Git and GitHub
-:::
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha21032007-git&layout=compact&hide_border=true&theme=github_dark" />
 
-### Tools & Technologies
+<br/><br/>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=linux,kali,bash,nmap,html,css,js,react,nextjs,nodejs,git,github,mysql,php,python,cpp&perline=8" alt="Technology icons" />`{=html}
-```{=html}
-</p>
-```
-> This list reflects tools and technologies I have worked with or am
-> currently learning; it is not a claim of expert-level proficiency in
-> every item.
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anusha21032007-git&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" />
 
-## Selected Projects
+<br/><br/>
 
-### Cybersecurity
+<img width="95%" src="https://streak-stats.demolab.com?user=anusha21032007-git&theme=github-dark-blue&hide_border=true" />
 
-  -----------------------------------------------------------------------
-  Project                             Overview
-  ----------------------------------- -----------------------------------
-  **Password Manager**                A project focused on securely
-                                      managing user credentials.
+</div>
 
-  **Phishing Mail Detection**         A project exploring the
-                                      identification of suspicious and
-                                      potentially malicious email
-                                      messages.
-  -----------------------------------------------------------------------
+---
 
-### Software & Engineering
+## 06. 3D Contribution Graph
 
-  -----------------------------------------------------------------------
-  Project                             Overview
-  ----------------------------------- -----------------------------------
-  **Twin Steering**                   A Bluetooth-based steering
-                                      monitoring prototype using ESP32
-                                      and AS5600 sensors to compare
-                                      steering angles between a reference
-                                      wheel and a learner wheel.
+<div align="center">
 
-  **Universal File Toolkit**          A web application focused on
-                                      bringing common file utilities into
-                                      one interface.
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
 
-  **AI Agent Analyzer**               A concept for evaluating AI agents
-                                      across performance, reliability and
-                                      security dimensions.
+</div>
 
-  **Users-Employees Task Manager**    A role-based task and announcement
-                                      management application for
-                                      administrators and employees.
+---
 
-  **Campus Commerce**                 A multi-role campus commerce
-                                      platform concept for super admins,
-                                      admins, shopkeepers and users.
-  -----------------------------------------------------------------------
+## 07. Beyond Technology
 
-*Project descriptions are summaries of the work and concepts I have
-discussed. Add each repository link when its public repository is
-available.*
+- Carnatic Music
+- Reading Books
+- Exploring Technology
+- Practical Learning
 
-## Current Learning Path
+---
 
-::: {align="center"}
-``` text
-Networking Fundamentals
-        ↓
-Linux & Command Line
-        ↓
-Network Scanning with Nmap
-        ↓
-Security Monitoring Fundamentals
-        ↓
-Log Analysis & Alert Triage
-        ↓
-SOC Analyst Practice Labs
-```
-:::
+## 08. Connect With Me
 
-I am prioritising practical foundations before moving into advanced
-security operations. I use hands-on labs and exercises to reinforce
-concepts rather than relying only on theory.
+<div align="center">
 
-## GitHub Analytics
+<a href="https://github.com/anusha21032007-git">
+<img src="https://img.shields.io/badge/GitHub-Anusha-181717?style=for-the-badge&logo=github"/>
+</a>
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=anusha21032007-git&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha21032007-git&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />`{=html}
+<br/><br/>
 
-`<img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=anusha21032007-git&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />`{=html}
-:::
+### LEARN · BUILD · TEST · IMPROVE
 
-## 3D Contribution View
-
-::: {align="center"}
-`<img src="https://github.com/anusha21032007-git/anusha21032007-git/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="92%" alt="3D GitHub contribution graph" />`{=html}
-:::
-
-To activate this section, generate the 3D contribution SVG in this
-profile repository using the `profile-3d-contrib` GitHub Action. Until
-the workflow has run and created the file, this image will not display.
-
-## Beyond the Screen
-
--   Learning Carnatic music
--   Reading fiction and personal-development books
--   Exploring practical technology projects
-
-## Connect
-
-::: {align="center"}
-`<a href="https://github.com/anusha21032007-git">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />`{=html}
-`</a>`{=html}
-:::
-
-::: {align="center"}
-`<sub>`{=html}Learning consistently. Building practically. Understanding
-systems deeply.`</sub>`{=html}
-:::
+</div>
