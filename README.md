@@ -1,4 +1,4 @@
-::: {align="center"}
+{align="center"}
 # Anusha N
 
 ### Cybersecurity Enthusiast · Networking · Frontend Development
